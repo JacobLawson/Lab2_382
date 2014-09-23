@@ -21,11 +21,11 @@ To Test the code, I would run through the program and check the memory locations
 ##Observations and Conclusions
 For the required functionality, the message below was displayed indicating that required functionality was obtained. 
 
-[alt text!](http://i59.tinypic.com/15riq1h.png)
+![alt text](http://i59.tinypic.com/15riq1h.png)
 
 For B functionality, the message below gave a hint to how to solve the A functionlity, which indicates that required B functionality was obtained.
 
-[alt text!](http://i62.tinypic.com/ioiw6f.png)
+![alt text](http://i62.tinypic.com/ioiw6f.png)
  
 ##Documentation
 C2C Thompson helped explain to me how to get the lab to store constants, and C2C Leaf explained that one needs to set up a counter for the B functionality Key to keep resetting.
